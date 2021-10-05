@@ -1,5 +1,8 @@
 # Data Structures and Algorithms II – C950
 # WGUPS Routing Program
+This is a WGU project in Data Structures and Algorithms II course, which solves a package delivery routing problem. This problem is a different version of the TSP problem. 
+
+In this problem, I implemented the greedy algorithm as my solution to calculate the shortest distance to deliver all packages based on its specific requirements. The total distance to deliver 40 packages was 104.9 miles and the time complexity of greedy algorithm in this project is `O(n^2)`.
 
 ## Scenario
 The Western Governors University Parcel Service (WGUPS) needs to determine the best route and delivery distribution for their Daily Local Deliveries. 
